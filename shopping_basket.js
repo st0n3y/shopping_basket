@@ -8,6 +8,10 @@ var shoppingBasket = {
 
   insert: function( i ) {
     this.items.unshift( i )
+  },
+
+  remove: function( i ) {
+    
   }
 
 }
